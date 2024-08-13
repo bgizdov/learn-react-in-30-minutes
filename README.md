@@ -1,3 +1,9 @@
+# Simple React Todo App
+This is a simple todo app created using React. It also uses tailwindcss and flowbite for styling.
+
+![Todo App Screenshot](todo-app-screenshot.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
